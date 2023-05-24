@@ -1,0 +1,19 @@
+.hz-opening-time-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.hz-opening-time-weekday {
+  flex-basis: 30%;
+}
+
+.hz-opening-time-closed {
+  flex-basis: 20%;
+}
+
+.hz-opening-time-hours {
+  flex-basis: 50%;
+  display: flex;
+  align-items: center;
+}
